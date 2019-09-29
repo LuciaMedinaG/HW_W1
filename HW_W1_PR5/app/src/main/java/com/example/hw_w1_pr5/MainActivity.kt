@@ -57,4 +57,5 @@ fun main(args: Array<String>) {
     val result = diagonalDifference(arr)
 
     println(result)
+    println("test")
 }
